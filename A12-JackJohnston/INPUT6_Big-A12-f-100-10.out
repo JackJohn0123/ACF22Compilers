@@ -1,0 +1,44 @@
+
+Printing buffer parameters:
+
+
+Printing buffer parameters:
+
+ _________________________________ 
+|                                 |
+| ....... 'BOA' LANGUAGE ........ |
+|     __    __    __    __        |
+|    /  \  /  \  /  \  /  \       |
+| __/  __\/  __\/  __\/  __\__    |
+| _/  /__/  /__/  /__/  /_____|   |
+|  \_/ \   / \   / \   / \  \___  |
+|       \_/   \_/   \_/   \___o_> |
+|                                 |
+| .. ALGONQUIN COLLEGE - 2022F .. |
+|_________________________________|
+
+[Option 'R': Starting READER .....]
+
+Reading file INPUT6_Big.mgn ....Please wait
+The input file INPUT6_Big.mgn has not been completely loaded.
+Current size of buffer: 100.
+Last character read from the input file is: t 116
+Input file size: 32531
+
+Printing buffer parameters:
+
+The capacity of the buffer is:  100
+The current size of the buffer is:  100
+The operational mode of the buffer is: f
+The increment factor of the buffer is:  10
+The first symbol in the buffer is:  #
+The value of the flags field is: 00
+Number of different chars read: 29
+
+Printing buffer contents:
+
+# BOA Example
+  The program is "lexically" correct
+  and should not generate any error #
+main& {
+	da
