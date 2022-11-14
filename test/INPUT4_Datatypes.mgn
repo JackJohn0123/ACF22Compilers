@@ -1,0 +1,16 @@
+#
+Magenta Example
+The program is lexically correct about the city 
+#
+	FoundationYear = 0
+	Area = 0.0
+	HDI = 0.0
+	CountryName = " "
+	
+
+	FoundationYear = -7000
+	Area = 492.0
+	HDI = 0.871
+	CountryName = "Bulgary"
+	print (CountryName)
+	

@@ -1,0 +1,12 @@
+# Magenta Example 3:
+  Volume of a sphere #
+
+	PI = 0.0
+	r = 0.0
+	Vol = 0.0
+	
+	PI = 3.14
+	input(r)
+	Vol = 4.0 / 3.0 * PI * (r * r * r)
+	print (Vol)
+	

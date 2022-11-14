@@ -1,0 +1,23 @@
+# Magenta Example
+The program is "lexically" correct and should not generate any error (based on Platypus from Svillen Ranev) #
+
+a = 3.4
+b = 2.2
+
+if ( a > b )
+
+print ("True")
+
+ b == a
+ i = 0
+while (i < 10)
+	i++
+
+	Word = "Let's go"
+			
+		print ("M < m")
+	 
+   if (z < v)
+
+	b = 3.4
+	
